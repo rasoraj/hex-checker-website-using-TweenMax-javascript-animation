@@ -1,0 +1,215 @@
+.yellowbox
+{
+    background-color: yellow;
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:90px;
+    left:37px
+
+}
+
+.yellowbox1
+{
+    background-color: rgb(206, 206, 31);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:90px;
+    left:37px
+
+}
+
+.yellowbox2
+{
+    background-color: rgb(126, 126, 38);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:90px;
+    left:37px
+
+}
+
+.yellowbox3
+{
+    background-color: rgb(63, 63, 28);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:90px;
+    left:37px
+
+}
+
+.yellowbox4
+{
+    background-color: rgb(68, 68, 17);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:90px;
+    left:37px
+
+}
+
+.yellowbox5
+{
+    background-color: rgb(61, 61, 1);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:90px;
+    left:37px
+
+}
+
+.greenbox
+{
+    background-color:green;
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:319px;
+    left:37px
+
+}
+
+.greenbox1
+{
+    background-color:rgb(15, 151, 15);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:319px;
+    left:37px
+
+}
+
+.greenbox2
+{
+    background-color:rgb(28, 124, 28);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:319px;
+    left:37px;
+
+}
+
+.greenbox3
+{
+    background-color:rgb(61, 129, 61);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:319px;
+    left:37px;
+    
+
+}
+
+.greenbox4
+{
+    background-color:rgb(16, 56, 16);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:319px;
+    left:37px;
+    
+
+}
+
+.greenbox5
+{
+    background-color:rgb(2, 39, 2);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:319px;
+    left:37px;
+    
+
+}
+.bluebox
+{
+    background-color:blue;
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:552px;
+    left:37px;
+
+}
+
+.bluebox1
+{
+    background-color:rgb(34, 34, 218);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:552px;
+    left:37px
+
+}
+
+.bluebox2
+{
+    background-color:rgb(54, 54, 139);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:552px;
+    left:37px
+
+}
+
+.bluebox3
+{
+    background-color:rgb(41, 41, 59);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:552px;
+    left:37px;
+    
+
+}
+
+.bluebox4
+{
+    background-color:rgb(25, 25, 65);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:552px;
+    left:37px;
+    
+
+}
+
+.bluebox5
+{
+    background-color:rgb(2, 2, 46);
+    position:absolute;
+    height:200px;
+    width:200px;
+    top:552px;
+    left:37px;
+    
+
+}
+
+.bg{
+    position: relative;
+    background-image:url("abs.jpg");
+}
+
+.noted{
+    position:absolute;
+    font-family: 'Amaranth';
+    font-size: 32px;
+    padding-top:336px;
+    left:36%;
+}
